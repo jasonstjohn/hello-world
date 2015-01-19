@@ -1,2 +1,2 @@
 # hello-world
-running through the tutorial
+Running through the tutorial.  This little README is only around as long as this hello-world repos is.  All is vanity...
